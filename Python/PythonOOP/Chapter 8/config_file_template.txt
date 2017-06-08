@@ -1,0 +1,3 @@
+black=white
+grey=orange
+blue=turquoise

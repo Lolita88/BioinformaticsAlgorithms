@@ -1,0 +1,4 @@
+blue=turquoise
+black=white
+grey=orange
+zz=top
